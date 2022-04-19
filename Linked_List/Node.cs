@@ -8,7 +8,7 @@ namespace Linked_List
 {
     internal class Node<T>
     {
-        public T data; // Adata variable
+        public T data; //  data variable
         public Node<T> next; // declaring a next node
         public Node(T data) // Cratinf constructor havind node data as parameter
         {
